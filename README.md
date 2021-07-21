@@ -1,2 +1,4 @@
-# stmvsarsuino
-Comparaison de vitesse entre STM32 et Arduino
+# Comparaison de vitesse entre STM32 et Arduino
+Dans ce dossier vous trouvez le cablage mais aussi le programme.
+
+Vous avez seulement a brancher comme moi et téléversez le programme dans la carte arduino.
